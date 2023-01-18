@@ -14,4 +14,4 @@ Busco uma transição de carreira como Desenvolvedor Web orientado a Back-end.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white).
 
-> ![Tecnologias mais ultilizadas](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&custom_title=Tecnologias%20%mais%20%ultilizadas)
+> ![Tecnologias mais ultilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGoncalves&layout=compact&theme=dracula&custom_title=Linguagens%20%mais%20%utilizadas)
