@@ -1,6 +1,6 @@
 ### Olá pessoal :hugs:
 
-Sou Erick Gonçalves e atualmente estou cursando Análise e Desenvolvimento de Sistema na Uniasselvi EAD, e realizando o curso com foco em **Back-End** na Cubos Academy e #iFood! 
+Sou Erick Gonçalves e atualmente estou cursando Análise e Desenvolvimento de Sistema na Uniasselvi EAD, e realizando o curso com foco em **Back-End** na **Cubos Academy** em parceria com **iFood**! 
 
 Busco uma transição de carreira como Desenvolvedor Web orientado a Back-end. 
 
